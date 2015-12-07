@@ -1,0 +1,147 @@
+* {
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+input {
+  width: 550px;
+  height: 35px;
+}
+
+input:hover {
+  border-color: #000000;
+}
+
+#button {
+  width: 120px;
+  height: 45px;
+  background-color: #F0F0F0;
+  font-family: Sans-serif;
+  color: #a19f9f;
+  font-weight: 700;
+  font-size: 15px;
+  text-align: center;
+  line-height: 44px;
+  position: absolute;
+  left: 35%;
+  display: block-inline;
+}
+
+#button2 {
+  width: 120px;
+  height: 45px;
+  background-color: #F0F0F0;
+  color: #a19f9f;
+  font-family: Sans-serif;
+  font-weigth: bold;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 700;
+  line-height: 44px;
+  position: absolute;
+  left: 49%;
+  display: block-inline;
+}
+
+#button {
+  width: 120px;
+  height: 45px;
+  background-color: #F0F0F0;
+  font-family: Sans-serif;
+  color: #a19f9f;
+  font-weight: 700;
+  font-size: 15px;
+  text-align: center;
+  line-height: 44px;
+  position: absolute;
+  left: 40%;
+  display: block-inline;
+}
+
+#button2 {
+  width: 120px;
+  height: 45px;
+  background-color: #F0F0F0;
+  color: #a19f9f;
+  font-family: Sans-serif;
+  font-weigth: bold;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 700;
+  line-height: 44px;
+  position: absolute;
+  left: 49%;
+  display: block-inline;
+}
+
+#button:hover {
+  color: #000000;
+  border: solid 1px black;
+}
+
+#button2:hover {
+  color: #000000;
+  border: solid 1px black;
+  
+}
+#header {
+  width: 100%;
+  text-align: right;
+  float: right;
+  font-family: Verdana;
+  font-size: 11px;
+  margin-top: 5px;
+  
+  
+  
+}
+
+.body {
+  height: 100%;
+  text-align: center;
+  top: 120px;
+  bottom: 20px;
+  position: relative;
+  clear: both;
+  text-align: center;
+  
+  
+}
+
+#footer {
+  font-family: Verdana;
+  font-size: 11px;
+  font-color: #C0C0C0;
+  text-aling: left;
+  position: absolute;
+  bottom: 0;
+  float: left;
+  width: 50%;
+  height: 3%;
+  background-color: #F0F0F0;
+  
+ 
+}
+
+#footer2 {
+  font-family: Verdana;
+  font-size: 11px;
+  font-color: #C0C0C0;
+  text-align: right;
+  width: 50%;
+  height: 3%;
+  float: right;
+  background-color: #F0F0F0;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  
+ 
+}
